@@ -1,4 +1,4 @@
-# filament-globalsearch
+# filament-globalsearch-customization
 Filament Global Search Customization 
 Customizing Global Search in Filament: Ordering and Grouping Results
 Get you desired order not alphabatecally. Also show Total Results in globalsearch
